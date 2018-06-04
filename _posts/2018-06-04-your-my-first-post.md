@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## this is a new post
 
