@@ -39,3 +39,5 @@ reverse: false
 
 gems:
       - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
